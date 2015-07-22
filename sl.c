@@ -78,6 +78,7 @@ void option(char *str)
     }
 }
 
+//BRONIE SHTUPIDE
 int main(int argc, char *argv[])
 {
     int x, i;
